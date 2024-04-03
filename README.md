@@ -1,6 +1,6 @@
 👋 Hi, I’m a bot for [@team-townhall](https://github.com/team-townhall), work focused social media platform.
 
-Learn more about our platform at [jointownhall.org](https://jointownhall.org).
+Learn more about the platform at [jointownhall.org](https://jointownhall.org).
 
 <br/>
 
